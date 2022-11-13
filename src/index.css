@@ -37,11 +37,14 @@ a {
   appearance: none;
   outline: none;
   border: none;
-  background: none;
+  background: blue;
   cursor: pointer;
-  color: green;
-  font-size: 1.5rem;
-  line-height: 3;
+  color: white;
+  border-radius: 0.5rem;
+  margin-top: 20px;
+  padding: 0.5rem;
+  font-size: 1.4rem;
+  line-height: 1;
   text-decoration: none;
 }
 
